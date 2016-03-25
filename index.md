@@ -5,13 +5,13 @@ layout: global
 
 # {{site.title}}
 
-{{site.description}}  
+{{site.description}}<br>
 [Mail](mailto:contact@p-jo.se),
 [Twitter](http://twitter.com/p_jo),
 [Flipboard](https://flipboard.com/@p_jo/reclaiming-the-future-luam4kfty)
 
 ## Newsletter  
-Monthly round-up of positive news and strategies for social change.  
+Monthly round-up of positive news and strategies for social change.<br>
 [Subscribe](http://eepurl.com/bIbxq9)
 
 
