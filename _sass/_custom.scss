@@ -1,110 +1,6 @@
 
-/* Cookies */
-
-.body-cookie .sidebar {
-  margin-top: 95px;
-}
-
-.body-cookie .jumbotron {
-  margin-top: 97px;
-}
-
-.body-cookie #main.not-front {
-  margin-top: 115px;
-}
-
-.alert {
-  margin-bottom: 0;
-}
-
-#main.not-front {
-  margin-top: 70px;
-}
-
-/* navbar */
-
-.navbar-grey {
-  background-color: #eee;
-  border-color: transparent;
-}
-
-.top-nav-collapse {
-  background-color: #fff;
-  opacity: 0.9;
-}
-
-/* Flexslider */
-
-.flexslider {
-  box-shadow: none;
-}
-
-/* Labels i bilder */
-.label-container {
-  position: relative;
-}
-
-  .label-container .label-absolute {
-    position: absolute;
-    bottom: 0.5em;
-    right: 0.5em;
-    font-size: 150%;
-  }
-
-  .label-absolute span {
-      display: block;
-      text-align: left;
-    }
-
-
-/* Stora centrerade tabs för navigering */
-/**
-.nav-center > li {
-  float:none;
-  display:inline-block;
-}
-
-.nav-center {
-  text-align:center;
-}
-
-.nav-tabs > li.active > a,
-.nav-tabs > li.active > a:hover,
-.nav-tabs > li.active > a:focus {
-  border-color: #428bca;
-  border-width: 0 0 5px;
-}
-
-*/
-
-
 body, html {
   height: 100%;
-}
-
-/* body { padding-top: 70px; } */
-
-.padding {
-  padding-bottom: 20px;
-}
-
-.margin {
-  margin-bottom: 60px;
-}
-
-a.area {
-  color: #333;
-}
-
-.nav.nav-tight > li > a {
-  padding-top: 5px;
-  padding-bottom: 5px;
-}
-
-.navbar-submenu {
-  position: relative;
-  top: -21px;
-  left: 0;
 }
 
 img {
@@ -112,16 +8,52 @@ img {
   height: auto;
 }
 
-.jumbotron a h1,
-a h1,
-a h2,
-/*a h3,*/
-a h4,
-a h5,
-a h6 {
-  color: #333;
+a {
+  text-decoration: underline;
 }
 
-.affix-bottom {
-  position: absolute;
+ul {
+  margin-bottom: 0;
+}
+
+.padding {
+  margin-bottom: 1em;
+}
+
+// TYPOGRAPHY
+
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+  margin-bottom: 0;
+//  margin-top: ($line-height-computed / 2);
+}
+
+h1, h2, h3, body {
+    @include transition(all 0.3s ease-in-out);
+
+    @media (max-width: $screen-sm-min) {
+    font-size: $font-size-small;
+  }
+}
+
+
+// SECTIONS
+
+h2#portfolio {
+  margin-bottom: 0.5em;
+}
+
+#projects {
+  margin-bottom: 1em;
+
+  h3 {
+    font-size: ceil(($font-size-base * 0.75));
+    margin-top: 0.75em;
+    margin-bottom: 0.25em;
+    line-height: 1.33;
+  }
+  p {
+    font-size: ceil(($font-size-base * 0.5));
+  }
 }

@@ -1,0 +1,17 @@
+<div class="row" id="projects">
+  <div class="col-md-11 col-lg-10 col-md-offset-1">
+    <h2 id="portfolio">Portfolio</h2>
+    
+    <div class="row">
+      {% for item in site.data.projects.contents reversed %}
+        <div class="col-sm-6 col-md-3 text-center padding">
+            <a href="{{item.source.url}}">
+              <img src="{{item.image.display.url}}" alt="{{item.title}}">
+              <h3>{{item.title}}</h3>
+            </a>
+            <p>{{item.description}}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
