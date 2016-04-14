@@ -8,6 +8,7 @@ layout: global
 {{site.description}}<br>
 [Mail](mailto:contact@p-jo.se),
 [Twitter](http://twitter.com/p_jo),
+[Medium](https://medium.com/@p_jo),
 [Flipboard](https://flipboard.com/@p_jo/reclaiming-the-future-luam4kfty)
 
 ## Newsletter  
