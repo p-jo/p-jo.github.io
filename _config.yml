@@ -1,10 +1,8 @@
 # Site settings
 title: Petter Joelson
-
 email: petter@p-jo.se
-description: "Activist & Web Strategist"
+description: "Activist & Web Consultant"
 baseurl: ""
-author: "Petter Joelson"
 twitter_username: p_jo
 github_username:  p-jo
 
@@ -14,10 +12,10 @@ markdown: kramdown
 permalink: pretty
 
 # Get JSON-files
-jekyll_get:
-  - data: projects
-    json: 'https://secure.are.na/v2/channels/portfolio--14'
-    cache: true
+# jekyll_get:
+#  - data: projects
+#    json: 'https://secure.are.na/v2/channels/portfolio--14'
+#    cache: true
 
 # Multilingual settings
 # See https://github.com/tristen/multilingual
@@ -34,4 +32,4 @@ prose:
   rooturl: '_posts'
 
 # Settings
-exclude:  [".sass-cache", "bower_components"]
+exclude:  [".sass-cache", "bower_components", "Rakefile"]
