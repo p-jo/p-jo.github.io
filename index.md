@@ -1,6 +1,7 @@
 ---
 layout: global
 author: p_jo
+title: Activist & Web Consultant
 summary: Guiding progressive organisations in the digital world.
 ---
 
@@ -9,7 +10,7 @@ summary: Guiding progressive organisations in the digital world.
 
 # {{site.title}}
 
-{{site.description}}
+{{page.title}}
 
 Guiding progressive organisations in the digital world. Design and strategy with [mobile first](https://abookapart.com/products/mobile-first) and [first things first](http://www.designishistory.com/1960/first-things-first/) in mind.
 
