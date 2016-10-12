@@ -2,19 +2,11 @@
 <html>
 
 <head>
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.title }}</title>
-  {% if site.description %}
-      <meta name="description" content="{{ site.description }}" />
-  {% endif %}
-  <meta name="author" content="{{ site.author }}">
 
   <link rel="stylesheet" media="screen" href="{{ site.baseurl }}/assets/css/style.css" type="text/css" />
-
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- favicons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-144x144-precomposed.png">
@@ -23,12 +15,13 @@
   <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/public/apple-touch-icon-57x57-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
 
-
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+  {% seo %}
 </head>
 
 <body>

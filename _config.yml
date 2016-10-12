@@ -1,15 +1,30 @@
 # Site settings
 title: Petter Joelson
 email: petter@p-jo.se
-description: "Activist & Web Consultant"
+description: "Activist & Web Consultant. Guiding progressive organisations in the digital world."
+url: http://petterjoelson.com
+twitter:
+  username: p_jo
+facebook:
+  publisher: petter.joelson
+logo: /public/logo.png
+social:
+  links:
+    - "https://medium.com/@p_jo"
+    - "https://twitter.com/p_jo"
+    - "https://www.facebook.com/petter.joelson"
+    - "https://github.com/p-jo"
+    - "https://flipboard.com/@p_jo"
+    - "https://www.linkedin.com/in/petterjoelson"
 baseurl: ""
-twitter_username: p_jo
-github_username:  p-jo
 
 # Build settings
 markdown: kramdown
 # relative_permalinks: true
 permalink: pretty
+
+gems:
+  - jekyll-seo-tag
 
 # Get JSON-files
 # jekyll_get:

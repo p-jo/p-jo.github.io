@@ -1,7 +1,11 @@
 ---
 layout: global
-
+author: p_jo
+summary: Guiding progressive organisations in the digital world.
 ---
+
+
+<!-- <img src="{{ site.email | to_gravatar:50 }}" class="img-circle"/> -->
 
 # {{site.title}}
 
