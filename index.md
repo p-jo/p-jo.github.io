@@ -20,10 +20,11 @@ Guiding progressive organisations in the digital world. Design and strategy with
 [Mail](mailto:contact@p-jo.se)
 
 ## Currently working on
-* Strategy for internal mobilising and communication for [Friends of the Earth International](http://www.foei.org/).
-* Information architecture and interaction design for internal and external websites for [Djurens Rätt](http://djurensratt.se/).
+* Strategy for internal resources and communication for [Friends of the Earth International](http://www.foei.org/).
+* Optimising site navigation for [Fair Trade Sweden](http://fairtrade.se/).
 
 ## Recent projects
+* Information architecture and interaction design for internal and external websites for [Djurens Rätt](http://djurensratt.se/).
 * Optimising donation forms for [Sweden for UNHCR](https://sverigeforunhcr.se) and [Swedish Committee for Afghanistan](https://swedishcommittee.org).
 * Doubling [MSF Sweden’s](https://gavoshop.lakareutangranser.se/) conversions with a new design for their web shop.
 * Helping [Fair Trade Sweden](http://fairtrade.se/) to find the right e-learning platform for their supporters.
