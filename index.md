@@ -1,10 +1,9 @@
 ---
 layout: global
 author: p_jo
-title: Activist & Web Consultant
-summary: Guiding progressive organisations in the digital world.
+title: Activist & Digital Consultant
+summary: Petter Joelson is a co-founder of Digidem Lab, a lab for digital democracy and participation.
 ---
-
 
 <!-- <img src="{{ site.email | to_gravatar:50 }}" class="img-circle"/> -->
 
@@ -12,21 +11,16 @@ summary: Guiding progressive organisations in the digital world.
 
 {{page.title}}
 
-Guiding progressive organisations in the digital world. Design and strategy with [mobile first](https://abookapart.com/products/mobile-first) and [first things first](http://www.designishistory.com/1960/first-things-first/) in mind.
-
 [Blog](https://medium.com/@p_jo),
-[Newsletter](http://eepurl.com/bIbxq9),
 [Twitter](http://twitter.com/p_jo),
 [Mail](mailto:contact@p-jo.se)
 
-## Currently working on
-* Strategy for internal mobilising and communication for [Friends of the Earth International](http://www.foei.org/).
-* Information architecture and interaction design for internal and external websites for [Djurens Rätt](http://djurensratt.se/).
+## Bio
+Co-founder and project coordinator for the non-profit organisation [Digidem Lab](http://digidemlab.org/en), a lab for developing digital tools for democratic participation on all levels of society.
 
-## Recent projects
-* Optimising donation forms for [Sweden for UNHCR](https://sverigeforunhcr.se) and [Swedish Committee for Afghanistan](https://swedishcommittee.org).
-* Doubling [MSF Sweden’s](https://gavoshop.lakareutangranser.se/) conversions with a new design for their web shop.
-* Helping [Fair Trade Sweden](http://fairtrade.se/) to find the right e-learning platform for their supporters.
+Previously founded the norm critical, feminist and worker owned communication agency Rabash. As web strategist and design lead he created digital solutions for organisations like MSF Sweden, Friends of the Earth International and Sweden for UNHCR.
+
+Petter is a peace and environmental activist since the 90's and once built a life-size nuclear missile from bin bags, sticky tape and a computer fan. 
 
 ## Read more
 * [Modular and responsive design for Doctors Without Borders](https://medium.com/@p_jo/sa%CC%8A-designar-vi-la%CC%88kare-utan-gra%CC%88nser-3ea26429404b)    
