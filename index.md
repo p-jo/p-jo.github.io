@@ -15,7 +15,6 @@ summary: Petter Joelson is a co-founder of Digidem Lab, a lab for digital democr
 [Twitter](http://twitter.com/p_jo),
 [Mail](mailto:contact@p-jo.se)
 
-## Bio
 Petter Joelson is co-founder and project coordinator for the non-profit organisation [Digidem Lab](http://digidemlab.org/en), a lab for developing digital tools for democratic participation on all levels of society.
 
 He previously founded the norm critical, feminist and worker owned communication agency Rabash. As web strategist and design lead he created digital solutions for organisations like MSF Sweden, Friends of the Earth International and Sweden for UNHCR.
