@@ -22,7 +22,7 @@ He previously founded the norm critical, feminist and worker owned communication
 Petter is a peace and environmental activist since the 90's and once built a life-size nuclear missile from bin bags, sticky tape and a computer fan. 
 
 ## Read more
-* [Making Madrid´s citizen platform accessible to a wider audience](https://medium.com/digidemlab/making-madrid-s-citizen-platform-accessible-to-a-wider-audience-f452dd59a394)  
+* [Making Madrid's citizen platform accessible to a wider audience](https://medium.com/digidemlab/making-madrid-s-citizen-platform-accessible-to-a-wider-audience-f452dd59a394)  
 <small>Petter Joelson, 2017-08-21</small>
 * [Designing a guiding app for digital democracy](https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e)  
 <small>Petter Joelson, 2016-10-11</small>
